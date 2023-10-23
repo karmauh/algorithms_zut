@@ -5,6 +5,7 @@
 #include <QTime>
 using namespace std;
 
+
 class BSTtreeNode {
     friend class BSTtree;
 
